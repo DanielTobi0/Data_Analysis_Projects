@@ -1,2 +1,4 @@
 # A repository for all my ongoing analysis projects
-This repositoty is aim at showcasing my data anaysis skills, using python anaysis libries.
+This repositoty is aim at show-casing my data anaysis skills, using python anaysis libries.
+<br>
+Every unique project here, has it table of contents inside the ipynb files, where is it further explained.
