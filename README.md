@@ -1,5 +1,8 @@
 # A repository for all my ongoing analysis projects
 This repositoty is aim at show-casing my data anaysis skills, using python anaysis libries.
+- **pandas
+- **numpy
+- **matplotlib
 
 Every unique project here, has it own table of contents inside it ipynb files, where is it further explained in details.
 
