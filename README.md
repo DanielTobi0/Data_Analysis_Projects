@@ -3,6 +3,6 @@ This repositoty is aim at show-casing my data anaysis skills, using python anays
 
 Every unique project here, has it own table of contents inside it ipynb files, where is it further explained in details.
 
-## List of projects. 
+## List of data analysis projects. 
 
 - [Sales Exploratory Data Analysis](https://github.com/DanielTobi0/Data_Analysis_Projects/blob/main/Sales%20Exploratory%20Data%20Analysis.ipynb)
