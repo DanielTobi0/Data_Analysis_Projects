@@ -3,6 +3,7 @@ This repositoty is aim at show-casing my data anaysis skills, using python anays
 - **pandas**
 - **numpy**
 - **matplotlib**
+- **others**
 
 Every unique project here, has it own table of contents inside it ipynb files, where is it further explained in details.
 
